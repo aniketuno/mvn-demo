@@ -1,4 +1,3 @@
-package mvn-demo;
 
 /**
  * Hello world!
